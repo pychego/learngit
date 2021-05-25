@@ -1,0 +1,71 @@
+1. plugin 插件
+2. tuple   元组
+3. dictionary  字典
+4. positional argument  位置参数
+5. slice  切片
+6. enumerate [ɪˈnjuːməreɪt] 枚举
+7 .instance  例子, 实例
+8. indent  缩进
+9. strip 脱掉, 移除字符串头尾指定字符
+10. wrapper 包装
+11. partial  部分的,不完整的,偏的
+12. Orient 面向,朝向
+13. attribute  属性,把...归因于
+14. slot 投放,插入
+15. operand 操作数
+16. transpose 转置
+17. split 分裂,分割
+18.  Parameters 参数
+19. decimal 小数
+20. ceil  天花板,向上取整
+21. subtract  减去
+22. reciprocal  倒数
+23. median   中间的,中位数
+24. flatten  变平, 把...弄平
+25. extract  提取,选取
+26. matrix  [ˈmeɪtrɪks] 矩阵
+27. inverse matrix  逆矩阵
+28. determinant  [dɪˈtɜːmɪnənt]  决定因素, 行列式
+29. delimiter  分隔符
+30. plot  绘制, 在地图上画出
+31. bar  条,棒,条状图
+32. mixin  混合类型
+33. aeesrt  断言
+34. serializable  [ˈsɪərɪəlaɪzəbl] 可序列化,可串行化的
+35. repository   [rɪˈpɒzətri] 仓库
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
