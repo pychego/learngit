@@ -13,3 +13,4 @@ this is feature1`s content.
 >>>>>>> feature1
 sha
 >>>>>>> Stashed changes
+2e
