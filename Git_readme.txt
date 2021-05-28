@@ -1,3 +1,30 @@
+=======================
+回退版本/撤销操作/删除操作
+
+1. git reset --hard HEAD^  回退到上个commit,一个^是回退一步
+
+2. git reset --hard <commit id> 回退到指定版本
+
+3. git reflog   查看你的每一步命令
+
+4.  git log   查看commit历史
+
+5. git checkout -- <file>  丢弃工作区的修改, 这是相对于暂存区(stage)而言的
+
+6.  git reset HEAD <file> 把暂存区的修改unstaged, 从新放回工作区
+
+7.  git HEAD -- <file>  查看工作区和版本库内容的区别
+
+
+
+
+
+
+
+
+
+
+
 ========================
 分支
 
@@ -65,7 +92,7 @@ test 分支没有变化, test内容合并到master,master向前进一个提交
 2. git rebase <branch name> 将当前节点的工作直接移到指定节点
 @@@图解4种git合并分支方法（转载）看csdn收藏讲的很详细
 
-3. 
+3. git cherry-pick <commit id>  可以复制一次特定的提交到当前分支
            
 
 
