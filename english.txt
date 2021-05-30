@@ -34,7 +34,7 @@
 34. serializable  [ˈsɪərɪəlaɪzəbl] 可序列化,可串行化的
 35. repository   [rɪˈpɒzətri] 仓库
 archive   [ˈɑːkaɪv] 档案文件
-
+amend  修正
 
 
 

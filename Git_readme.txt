@@ -110,6 +110,7 @@ $ git commit -m'blablabla...'
 当出现rebase冲突时,不能进行其他操作了,有两种解决方法
 1. 可以先解决冲突地方,然后git add .   ,再commit
 2. 可以直接git rebase --abort 来取消当前的进程
+3. 对于1,如果不行,可以解决冲突之后git rebase --continue就好了
 
 
 
