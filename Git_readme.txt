@@ -107,6 +107,10 @@ $ git add .
 $ git commit -m'blablabla...'
 就好了,如果是合并分支的话(merge), 原分支的内容不变
 
+当出现rebase冲突时,不能进行其他操作了,有两种解决方法
+1. 可以先解决冲突地方,然后git add .   ,再commit
+2. 可以直接git rebase --abort 来取消当前的进程
+
 
 
 
