@@ -41,7 +41,7 @@ drop  跌落,删除提交
 --------------------sql
 column  字段,列,柱子
 constrain[kənˈstreɪnt]  限制,约束
-
+1
 
 
 
