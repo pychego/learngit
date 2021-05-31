@@ -38,7 +38,9 @@ amend  修正
 dismiss   摒弃,不予考虑
 revert   恢复,回到原来状态
 drop  跌落,删除提交
-
+--------------------sql
+column  字段,列,柱子
+constrain[kənˈstreɪnt]  限制,约束
 
 
 
