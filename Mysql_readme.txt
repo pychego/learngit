@@ -1,0 +1,1 @@
+1. 在cmd键入mysql -u root -p进入mysql
