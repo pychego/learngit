@@ -44,6 +44,7 @@ column  字段,列,柱子
 constrain[kənˈstreɪnt]  限制,约束
 descend   下来,下降,从高到低排序
 这次提交要弄到main
+incompatible  [ˌɪnkəmˈpætəbl] 不相容的
 
 
 
