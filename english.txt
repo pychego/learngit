@@ -45,7 +45,11 @@ constrain[kənˈstreɪnt]  限制,约束
 descend   下来,下降,从高到低排序
 这次提交要弄到main
 incompatible  [ˌɪnkəmˈpætəbl] 不相容的
-
+clause  [klɔːz] 句子,语句
+manual   [ˈmænjuəl] 手册,说明书
+correspond [ˌkɒrəˈspɒnd] 一致,相符合
+duplicate  [ˈdjuːplɪkeɪt , ˈdjuːplɪkət] 重复
+alter [ˈɔːltə(r)] 改变,更改
 
 
 
